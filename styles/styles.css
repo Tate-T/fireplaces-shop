@@ -1,0 +1,140 @@
+body {
+  font-family: 'Heebo', sans-serif;
+  color: #fff;
+  background-color: #221d1d;
+  line-height: 150%;
+}
+
+.section-title {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 120%;
+  letter-spacing: -0.01em;
+}
+
+.title {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 130%;
+  letter-spacing: -0.01em;
+}
+
+.text {
+  font-size: 18px;
+}
+
+.subtext {
+  font-size: 14px;
+}
+
+.link {
+  font-weight: 500;
+}
+
+/* header */
+
+.logo img {
+  width: 150px;
+}
+
+.header .link {
+  font-weight: 400;
+}
+
+.header-order {
+  font-weight: 500;
+}
+
+/* hero */
+
+.hero-title {
+  font-size: 56px;
+}
+
+/* about */
+
+.about img {
+  width: 644px;
+}
+
+/* benefits */
+
+.benefits-icon {
+  width: 48px;
+  height: 48px;
+}
+
+/* fireplaces */
+
+.fireplaces-photo {
+  width: 304px;
+}
+
+.fireplaces-name {
+  font-weight: 600;
+}
+
+.fireplaces-price {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+/* feedbacks */
+
+.feedbacks-icon {
+  width: 20px;
+  height: 19px;
+}
+
+.feedbacks-author {
+  font-weight: 600;
+}
+
+/* gallery */
+
+.gallery-photo {
+  width: 644px;
+}
+
+.gallery-title {
+  text-align: center;
+}
+
+/* contacts */
+
+.contacts-icon {
+  width: 32px;
+  height: 32px;
+}
+
+.contacts-name {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 140%;
+  letter-spacing: -0.01em;
+}
+
+.contacts-link {
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+}
+
+/* footer */
+
+.footer-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.footer .link {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.footer-copyright {
+  font-size: 14px;
+  text-align: center;
+}
