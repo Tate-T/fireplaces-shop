@@ -5,6 +5,10 @@ body {
   line-height: 150%;
 }
 
+.section {
+  padding: 48px 0;
+}
+
 .section-title {
   font-family: 'Roboto Slab', serif;
   font-weight: 500;
@@ -35,6 +39,10 @@ body {
 
 /* header */
 
+.header {
+  padding: 16px 0;
+}
+
 .logo img {
   width: 150px;
 }
@@ -48,6 +56,10 @@ body {
 }
 
 /* hero */
+
+.hero {
+  padding: 112px 0;
+}
 
 .hero-title {
   font-size: 56px;
@@ -102,6 +114,13 @@ body {
   text-align: center;
 }
 
+.container {
+  width: 1336px;
+  padding: 0 12px;
+  margin: 0 auto;
+  outline: solid red;
+}
+
 /* contacts */
 
 .contacts-icon {
@@ -123,6 +142,10 @@ body {
 }
 
 /* footer */
+
+.footer {
+  padding: 80px 0;
+}
 
 .footer-icon {
   width: 24px;
